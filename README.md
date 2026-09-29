@@ -21,10 +21,10 @@ online resources and open access.
 
 ## 1. me
 
+- [archive](https://archive.org/details/@prasanth_kp)
 - [listed](https://listed.to/@prasanth)
 - [standard notes](https://app.standardnotes.com/)
-- [this page](https://listed.to/@prasanth/75601/)
-- [profile](https://listed.to/@prasanth/75456/)
+
 
 [back to contents](#contents)
 
