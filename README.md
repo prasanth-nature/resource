@@ -1,6 +1,6 @@
 # resource
 
-online resources and open access materials.
+online resources and open access.
 
 ![viktor vasnetsov - алёнушка](https://upload.wikimedia.org/wikipedia/commons/3/33/Vasnetsov_Alenushka.jpg)
 
