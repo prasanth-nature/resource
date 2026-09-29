@@ -566,9 +566,9 @@ online resources and open access.
 #### syllabus catalogue prompt
 
 ```text
-list of syllabus catalogues from universities
+syllabus catalogues from universities
 open access
-include direct links
+name, link
 
 university syllabus catalogues — open access
 ````
