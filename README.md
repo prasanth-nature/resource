@@ -699,6 +699,8 @@ university syllabus catalogues — open access
 * [morphology](https://archive.org/details/morphology_202511)
 * [open access linguistics](https://oaling.wordpress.com/)
 
+[back to cognification](#10-cognification) ·
+
 ### 10.2. philosophy
 
 #### overview
@@ -729,6 +731,8 @@ university syllabus catalogues — open access
 * [philosophical concepts category](https://en.wikipedia.org/wiki/category:philosophical_concepts)
 * [philosophy category](https://en.wikipedia.org/wiki/category:philosophy)
 
+[back to cognification](#10-cognification) ·
+
 #### ontology
 
 * [ontology collection](https://archive.org/details/ontology_202511)
@@ -741,6 +745,8 @@ university syllabus catalogues — open access
 * [ontology engineering](https://people.cs.uct.ac.za/~mkeet/oebook)
 * [information retrieval](https://github.com/ohsubd2k/bdk10-information-retrieval)
 
+[back to cognification](#10-cognification) ·
+
 #### logic
 
 * [open logic project](https://openlogicproject.org/)
@@ -748,6 +754,8 @@ university syllabus catalogues — open access
 * [carnap](https://carnap.io/)
 * [book of proof](https://richardhammack.github.io/bookofproof/)
 * [proofwiki](https://proofwiki.org)
+
+[back to cognification](#10-cognification) ·
 
 ### 10.3. psychology
 
@@ -775,4 +783,5 @@ university syllabus catalogues — open access
 - [introduction to natural language processing](https://www.ai.uni-hannover.de/teaching/courses/inlp)
 - [foundations of statistical natural language processing](https://nlp.stanford.edu/fsnlp/)
 
-[back to contents](#contents)
+
+[back to cognification](#10-cognification) ·[back to contents](#contents)
