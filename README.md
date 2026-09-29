@@ -21,6 +21,7 @@ online resources and open access.
 
 ## 1. me
 
+- [note](https://archive.org/details/prasanth-standard-notes-export)
 - [archive](https://archive.org/details/@prasanth_kp)
 - [listed](https://listed.to/@prasanth)
 - [standard notes](https://app.standardnotes.com/)
