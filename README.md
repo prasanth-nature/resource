@@ -80,6 +80,8 @@ online resources and open access.
 - [sourceforge](https://sourceforge.net/)
 - [fediverse party](https://fediverse.party/en/miscellaneous/)
 
+[back to contents](#contents)
+
 ---
 
 ## 3. structure
@@ -298,6 +300,8 @@ online resources and open access.
 - [w3c](https://www.w3.org/)
 - [schema.org](https://schema.org/)
 
+[back to contents](#contents)
+
 ---
 
 ## 4. language
@@ -442,6 +446,8 @@ online resources and open access.
 - [clld](https://clld.org/)
 - [linguistic data consortium](https://www.ldc.upenn.edu/)
 
+[back to contents](#contents)
+
 ---
 
 ## 5. mathematics
@@ -461,6 +467,8 @@ online resources and open access.
 - [lean](https://lean-lang.org/)
 - [cambridge computer laboratory teaching](https://www.cl.cam.ac.uk/teaching/2526/lecturers.html)
 - [acm digital library](https://dl.acm.org/)
+
+[back to contents](#contents)
 
 ---
 
@@ -493,6 +501,8 @@ online resources and open access.
 - [cern and society foundation](https://cernandsocietyfoundation.cern/projects/)
 - [hal open archive](https://hal.science)
 
+[back to contents](#contents)
+
 ---
 
 ## 7. social
@@ -508,6 +518,8 @@ online resources and open access.
 - [un data](https://data.un.org/)
 - [bbc country profiles](http://news.bbc.co.uk/2/hi/country_profiles)
 
+[back to contents](#contents)
+
 ---
 
 ## 8. engineering
@@ -517,6 +529,8 @@ online resources and open access.
 - [software foundations](https://softwarefoundations.cis.upenn.edu/)
 - [programming language foundations in agda](https://plfa.github.io/)
 - [information retrieval book](https://www-nlp.stanford.edu/ir-book/)
+
+[back to contents](#contents)
 
 ---
 
@@ -651,6 +665,8 @@ university syllabus catalogues — open access
 * [nsf public access repository](https://par.nsf.gov/)
 * [research networking and profiling systems](https://en.wikipedia.org/wiki/Comparison_of_research_networking_tools_and_research_profiling_systems)
 
+[back to contents](#contents)
+
 ---
 
 ## 10. cognification
@@ -758,3 +774,5 @@ university syllabus catalogues — open access
 - [cos 484 — natural language processing](https://princeton-nlp.github.io/cos484/)
 - [introduction to natural language processing](https://www.ai.uni-hannover.de/teaching/courses/inlp)
 - [foundations of statistical natural language processing](https://nlp.stanford.edu/fsnlp/)
+
+[back to contents](#contents)
